@@ -16,7 +16,7 @@
 
 
 <h2>Solutions</h2>
-<ol>
+<ul>
 <li>0-add.py : https://github.com/StacyKioko/alx-higher_level_programming/blob/main/0x02-python-import_modules/0-add.py </li>
 <li>1-calculation.py : https://github.com/StacyKioko/alx-higher_level_programming/blob/main/0x02-python-import_modules/1-calculation.py </li>
 <li>2-args.py : https://github.com/StacyKioko/alx-higher_level_programming/blob/main/0x02-python-import_modules/2-args.py </li>
@@ -26,4 +26,5 @@
 <li>100-my_calculator.pyx : https://github.com/StacyKioko/alx-higher_level_programming/blob/main/0x02-python-import_modules/100-my_calculator.pyx </li>
 <li>101-easy_print.py : https://github.com/StacyKioko/alx-higher_level_programming/blob/main/0x02-python-import_modules/101-easy_print.py </li>
 <li>102-magic_calculation.py : https://github.com/StacyKioko/alx-higher_level_programming/blob/main/0x02-python-import_modules/102-magic_calculation.py </li>
-<li>103-fast_alphabet.py : (https://github.com/StacyKioko/alx-higher_level_programming/blob/main/0x02-python-import_modules/103-fast_alphabet.py) </li>
+<li>103-fast_alphabet.py : https://github.com/StacyKioko/alx-higher_level_programming/blob/main/0x02-python-import_modules/103-fast_alphabet.py </li>
+</ul>
