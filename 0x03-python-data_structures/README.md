@@ -28,7 +28,6 @@
 <li><a href=https://github.com/StacyKioko/alx-higher_level_programming/blob/main/0x03-python-data_structures/11-delete_at.py>11-delete_at.py</a></li>
 <li><a href=https://github.com/StacyKioko/alx-higher_level_programming/blob/main/0x03-python-data_structures/12-switch.py>12-switch.py</a></li>
 <li><a href=https://github.com/StacyKioko/alx-higher_level_programming/blob/main/0x03-python-data_structures/13-is_palindrome.c>13-is_palindrome.c</a></li>
-<li><a href=https://github.com/StacyKioko/alx-higher_level_programming/blob/main/0x03-python-data_structures/9-max_integer.py>9-max_integer.py</a></li>
 <li><a href=https://github.com/StacyKioko/alx-higher_level_programming/blob/main/0x03-python-data_structures/2-replace_in_list.py>2-replace_in_list.py</a></li>
 <li><a href=https://github.com/StacyKioko/alx-higher_level_programming/blob/main/0x03-python-data_structures/3-print_reversed_list_integer.py>3-print_reversed_list_integer.py</a></li>
 <li><a href=https://github.com/StacyKioko/alx-higher_level_programming/blob/main/0x03-python-data_structures/4-new_in_list.py>4-new_in_list.py</a></li>
